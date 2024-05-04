@@ -12,7 +12,7 @@
 - 💬 Ask me about **Penetration Testing, Digital Forensics and Malware Analysis**
 
 <h3 align="left">Connect with me:</h3>
-
+**khizernadeem99@gmail.com**
 <p align="left">
 </p>
 
