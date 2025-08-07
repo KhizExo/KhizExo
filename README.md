@@ -1,15 +1,11 @@
-<h1 align="center">Hey bro 👋, I'm Khizer Nadeem</h1>
-<h3 align="center">a Cybersecurity enthusiast diving deep into the realms of digital security. Currently pursuing my passion as a student, I'm on a journey to uncover the intricacies of cybersecurity, with a particular focus on Penetration Testing, Digital Forensics, and fortifying Web Security.</h3>
+<h1 align="center">Hey👋, I'm Khizer Nadeem</h1>
+<h3 align="center">A passionate cybersecurity enthusiast exploring the depths of digital security. As a continuous learner, I’m focused on Penetration Testing, Digital Forensics, and Web Security—while also building expertise in Governance, Risk, and Compliance (GRC) to ensure both technical and regulatory resilience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khizexo&label=Profile%20views&color=0e75b6&style=flat" alt="khizexo" /> </p>
 
-- 🔭 I’m currently working on **Privacy Policy Analyzer**
-
-- 🌱 I’m currently learning **JS and PHP**
-
 - 👨‍💻 All of my projects are available here
 
-- 💬 Ask me about **Penetration Testing, Digital Forensics and Malware Analysis**
+- 💬 Ask me about **Penetration Testing, Digital Forensics, Malware Analysis, and GRC**
 
 <h3 align="left">Connect with me:</h3>
 khizernadeem99@gmail.com
